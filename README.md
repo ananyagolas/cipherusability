@@ -1,4 +1,8 @@
 # Cipher Usability Starter Code
+
+This project is called Cipher Usability! 
+
+
 This is a place for you to start building your Cipher Usability Project!
 
 ### Project Requirements
